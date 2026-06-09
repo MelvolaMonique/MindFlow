@@ -1,28 +1,25 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="Olnqo0z5X7HrJRJVDCDp">
-    <mxGraphModel dx="1094" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="702" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BrtYY052EfEOkjj2CXpA-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Funcionário" vertex="1">
-          <mxGeometry height="170" width="160" x="30" y="130" as="geometry" />
+          <mxGeometry height="140" width="160" x="30" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="BrtYY052EfEOkjj2CXpA-2" parent="BrtYY052EfEOkjj2CXpA-1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Id, Nome, setor&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="BrtYY052EfEOkjj2CXpA-3" parent="BrtYY052EfEOkjj2CXpA-1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Home:&lt;br&gt;-Conversar com IA;&lt;br&gt;-Treinamento;&lt;br&gt;-Recompensas;&lt;br&gt;-Meu progresso;" vertex="1">
-          <mxGeometry height="114" width="160" y="56" as="geometry" />
+        <mxCell id="BrtYY052EfEOkjj2CXpA-3" parent="BrtYY052EfEOkjj2CXpA-1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="-Fazer login:&lt;br&gt;-Conversar com IA;&lt;br&gt;-realizar os treinamentos;&lt;br&gt;-Visualizar progresso;&lt;br&gt;-Resgatar recompensas;&lt;br&gt;-conversar com psicológo" vertex="1">
+          <mxGeometry height="114" width="160" y="26" as="geometry" />
         </mxCell>
         <mxCell id="BrtYY052EfEOkjj2CXpA-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="RH" vertex="1">
-          <mxGeometry height="150" width="160" x="254" y="130" as="geometry" />
+          <mxGeometry height="220" width="170" x="220" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="BrtYY052EfEOkjj2CXpA-6" parent="BrtYY052EfEOkjj2CXpA-5" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Id, Nome&lt;div&gt;&lt;br&gt;-Criar os treinamentos;&lt;br&gt;-Relatórios;&lt;br&gt;-cadastro de funcionário;&lt;br&gt;-exclusão de funcionário;&lt;br&gt;-Indicadores de prêmios;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="124" width="160" y="26" as="geometry" />
+        <mxCell id="BrtYY052EfEOkjj2CXpA-6" parent="BrtYY052EfEOkjj2CXpA-5" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="-Inclusão/exclusão/alteração de funcionário.&lt;div&gt;-Gerenciar recompensas&lt;br&gt;-Gerencias treinamentos&lt;br&gt;-Gerar relatórios&lt;br&gt;-Visualizar indicadores&lt;br&gt;-Inclusão/exclusão/alteração psicologo.&lt;br&gt;-agendamento de consultas;&lt;br&gt;-importação&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="194" width="170" y="26" as="geometry" />
         </mxCell>
         <mxCell id="BrtYY052EfEOkjj2CXpA-8" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Psicologo" vertex="1">
-          <mxGeometry height="150" width="180" x="480" y="120" as="geometry" />
+          <mxGeometry height="150" width="180" x="414" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="BrtYY052EfEOkjj2CXpA-9" parent="BrtYY052EfEOkjj2CXpA-8" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Id, Nome&lt;div&gt;&lt;br&gt;-Receber encaminhamentos;&lt;br&gt;-Agendar atendimentos;&lt;br&gt;-Realizar atendimentos;&lt;/div&gt;" vertex="1">
+        <mxCell id="BrtYY052EfEOkjj2CXpA-9" parent="BrtYY052EfEOkjj2CXpA-8" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;-Receber encaminhamentos;&lt;br&gt;-Agendar atendimentos;&lt;br&gt;-Realizar atendimentos;&lt;/div&gt;" vertex="1">
           <mxGeometry height="124" width="180" y="26" as="geometry" />
         </mxCell>
       </root>
