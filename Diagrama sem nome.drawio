@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="Olnqo0z5X7HrJRJVDCDp">
-    <mxGraphModel dx="1224" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="BrtYY052EfEOkjj2CXpA-8" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Psicologo" vertex="1">
           <mxGeometry height="150" width="180" x="414" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="BrtYY052EfEOkjj2CXpA-9" parent="BrtYY052EfEOkjj2CXpA-8" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;-Receber encaminhamentos;&lt;br&gt;-Agendar atendimentos;&lt;br&gt;-Realizar atendimentos;&lt;/div&gt;" vertex="1">
+        <mxCell id="BrtYY052EfEOkjj2CXpA-9" parent="BrtYY052EfEOkjj2CXpA-8" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;-Receber encaminhamentos;&lt;br&gt;-Agendar atendimentos;&lt;br&gt;-Realizar atendimentos;&lt;br&gt;-Registrar evolução do paciente&lt;br&gt;-Emitir parecer&lt;/div&gt;" vertex="1">
           <mxGeometry height="124" width="180" y="26" as="geometry" />
         </mxCell>
       </root>
